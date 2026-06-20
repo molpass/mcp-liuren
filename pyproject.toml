@@ -2,6 +2,7 @@
 name = "mcp-liuren"
 version = "1.0.0"
 description = "Da Liu Ren (大六壬) MCP server — three transmissions / four lessons / heaven-earth plate over stdio."
+keywords = ["mcp", "model-context-protocol", "hermes-agent", "claude", "vibe-coding", "korean", "telegram", "fortune-telling", "liuren", "divination"]
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.10"
